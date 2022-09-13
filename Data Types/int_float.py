@@ -1,8 +1,8 @@
 #Fundamental Data Types
 
 #integers and float
-int
-float
+int () # Example of integers whole numbers are 3,4,5 or 2 + 4
+float () # Example of float or decimal numbers are .5, .8, .9
 
 #How to get the type of data type from your code "type()" to define a integer or float data type. 
 print (type(6))
