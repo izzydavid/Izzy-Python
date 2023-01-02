@@ -1,1 +1,2 @@
-# clean
+# Functions
+def 
